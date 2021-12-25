@@ -1,2 +1,2 @@
-# funk
-an amazing template
+# yes
+ok
